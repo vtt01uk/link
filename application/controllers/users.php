@@ -37,8 +37,8 @@ class Users extends CI_Controller {
 		if ($login)
 		{
 			$user = $this->User->get_user_by_email($this->input->post('email'));
-			// $this->session->set_userdata('user', $user);
-			redirect('/dashboard');
+			$this->session->set_userdata('user', $user);
+			redirect('/users/dashboard');
 		}
 		else
 		{
