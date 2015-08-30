@@ -6,28 +6,16 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="LINK">
     <meta name="author" content="IHL">
-<!--     <link rel="icon" href="../../favicon.ico">
- -->
     <title>Compose a New Message</title>
-
     <!-- Bootstrap core CSS -->
     <link href="/assets/css/bootstrap.css" rel="stylesheet">
     <link href="/assets/css/main.css" rel="stylesheet">
-
     <!-- Custom styles for this template -->
     <link href="/assets/css/starter-template.css" rel="stylesheet">
     <link href="/assets/css/signin.css" rel="stylesheet">
     <link href="/assets/css/dashboard.css" rel="stylesheet">
     <link href="/assets/css/sticky-footer-navbar.css" rel="stylesheet">
-    <!-- <link href="/assets/css/chosen/docsupport/prism.css" rel="stylesheet"> -->
-    <!-- <link href="/assets/css/chosen/docsupport/style.css" rel="stylesheet"> -->
     <link href="/assets/css/chosen/chosen.css" rel="stylesheet">
-
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
 </head>
 <body>
 
@@ -124,7 +112,7 @@
       <p class="text-muted">Place sticky footer content here.</p>
     </div>
   </footer>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="/assets/js/chosen.jquery.js" type="text/javascript"></script>
   <script src="/assets/js/docsupport/prism.js" type="text/javascript" charset="utf-8"></script>
   <script type="text/javascript">
@@ -140,5 +128,7 @@
     }
   </script>
   <script src="/assets/js/chosen.jquery.js" type="text/javascript"></script>
+  <script src="/assets/js/bootstrap.min.js"></script>
+  <script src="/assets/js/main.js"></script>
 </body>
 </html>

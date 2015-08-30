@@ -21,12 +21,6 @@ class Messages extends CI_Controller {
 		}
 		else
 		{
-			// Generate messages
-			// for($j = 0; $j < 5; $j++){
-			// $sub = "Subject: ".$j;
-			// $body = "This is message number ".$j;
-			// 	$this->mahana_model->send_new_message(2, 1, $sub, $body, 1);
-			// }
 			redirect('/messages/home');
 		}
 	}
