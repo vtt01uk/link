@@ -28,6 +28,7 @@
             <li><a href="/users/teams">Teams</a></li>
             <li><a href="#">Events</a></li>
             <li><a href="#">Members</a></li>
+            <li><a href="/messages">Messages</a></li>
             <li><a href="#">Log Off</a></li>
           </ul>
         </div>
