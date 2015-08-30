@@ -23,10 +23,9 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="#">Sign Up</a></li>
+            <li><a href="/users/signup">Sign Up</a></li>
             <li><a href="/users/teams">Teams</a></li>
              <li><a href="/users/events">Events</a></li>
-            <li><a href="#">About Link</a></li>
           </ul>
         </div>
       </div>

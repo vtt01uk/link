@@ -24,8 +24,7 @@
           <ul class="nav navbar-nav navbar-right">
             <li><a href="#">Sign Up</a></li>
             <li><a href="/users/teams">Teams</a></li>
-             <li><a href="/users/events">Events</a></li>
-            <li><a href="#">About Link</a></li>
+             <li><a href="/events">Events</a></li>
           </ul>
         </div>
       </div>

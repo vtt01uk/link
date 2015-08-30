@@ -29,13 +29,13 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
-            <li><a id = "new_event" href="/events/create">Create Event</a></li>
-            <li><a href="#">Dashboard</a></li>
+            <li><a href>Hello, <?= $this->session->userdata('first_name') ?></a></li>
+            <li><a href="/users/dashboard">Dashboard</a></li>
             <li><a href="/users/teams">Teams</a></li>
-            <li><a href="#">Events</a></li>
+            <li><a href="/users/events">Events</a></li>
             <li><a href="#">Members</a></li>
             <li><a href="/messages">Messages</a></li>
-            <li><a href="#">Log Off</a></li>
+            <li><a href="/users/logoff">Log Off</a></li>
           </ul>
         </div>
       </div>
@@ -46,6 +46,8 @@
     <div class="row">
       <div class="col-sm-3 col-md-2 sidebar">
         <ul class="nav nav-sidebar">
+          <hr>
+          <hr>
           <li class="active"><a href="/messages/new_message">New Message <span class="sr-only">(current)</span></a></li>
         </ul>
         <ul class="nav nav-sidebar">
@@ -102,7 +104,7 @@
 
   <footer class="footer">
     <div class="container">
-      <p class="text-muted">Place sticky footer content here.</p>
+     
     </div>
   </footer>
 
