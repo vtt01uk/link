@@ -28,8 +28,7 @@
         </div>
       </div>
     </nav>
-  <div class= "container" id = "wrapper">
-  
+  <div class= "container" id = "wrapper">  
   </div>
   <div class= "container" id="wrapper">
     <div class="panel-body sign_up">

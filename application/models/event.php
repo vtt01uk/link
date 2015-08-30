@@ -24,6 +24,4 @@ class Event extends CI_Model {
 		$this->db->delete('events');
 	}
 
-
-
 }

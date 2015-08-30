@@ -75,7 +75,6 @@
             echo "<td>".$request['first_name']. ' '. $request['last_name']."</td>";
             echo "<td>".$request['institution']."</td>";
             echo "<td>".$request['motivation']."</td>";
-            echo "<td>".$request['team']."</td>";
             echo "<td><a href ='/users/approve/{$request['id']}'>Approve</a></td>";
             echo "<td><a href ='/users/edit/{$request['id']}'>Edit</a></td>";
             echo "</tr>";
@@ -89,9 +88,6 @@
       </div>
     </div>
        
-    
-
-   
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="/assets/js/bootstrap.min.js"></script>
   <script src="/assets/js/bootstrap.min.js"></script>

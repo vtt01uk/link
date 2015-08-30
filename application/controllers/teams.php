@@ -1,6 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Events extends CI_Controller {
+class Teams extends CI_Controller {
 
 	public function __construct()
 	{
@@ -14,19 +14,20 @@ class Events extends CI_Controller {
 
 	public function index()
 	{
-		$events = $this->Event->all();
-		$this->load->view('events', array("events" =>$events));
+		$teams = $this->Team->all();
+		$newest_teams = $this->Team->();
+		$this->load->view('teams', array("teams" =>$teams));
 	}
 
 	public function create()
 	{
-		$this->load->view('new_event');
+		$this->load->view('new_team');
 	}
 
 	public function add()
 	{
-		$this->Event->create($this->input->post());
-		redirect('events');
+		$this->Team->create($this->input->post());
+		redirect('teams');
 	}
 
 

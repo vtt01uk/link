@@ -5,8 +5,10 @@ class Users extends CI_Controller {
 	public function __construct()
 	{
 		parent::__construct();
-		$this->output->enable_profiler();
+		// $this->output->enable_profiler();
 		$this->load->model('User');
+		$this->load->model('Team');
+		$this->load->model('Event');
 		$this->load->library('session');
 		// REMOVE THIS BEFORE DEPLOYING LIVE
 		// $this->session->set_userdata('logged_in', TRUE);
@@ -14,7 +16,15 @@ class Users extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('index');
+		if($this->session->userdata('logged_in') === TRUE)
+		{
+			redirect('/users/dashboard');
+		}
+		else 
+		{
+			$this->load->view('index');
+		}
+		
 	}
 	public function events()
 	{
@@ -43,6 +53,7 @@ class Users extends CI_Controller {
 		}
 		else
 		{
+
 			redirect('/');
 		}
 	}
@@ -57,8 +68,15 @@ class Users extends CI_Controller {
 	}
 	public function request()
 	{
-		$this->User->create($this->input->post());
-		$this->load->view('thank_you');
+		$request = $this->User->create($this->input->post());
+		if ($request)
+		{
+			$this->load->view('thank_you');			
+		}
+		else 
+		{
+			redirect('/');
+		}
 	}
 	public function approve($id)
 	{

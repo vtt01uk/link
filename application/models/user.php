@@ -48,13 +48,16 @@ class User extends CI_Model {
 		$this->form_validation->set_rules("instistution", "Institution", "required");
 		$this->form_validation->set_rules("motivation", "Motivation", "required");
 		$this->form_validation->set_rules("team", "Team", "required");
+		$result = array();
 		if($this->form_validation->run() === FALSE)
 		{
+			$result = FALSE;
+			$result[] = validation_errors();
 			return FALSE;
 		}
 		else 
 		{
-
+			$result[] = "Successfully request Membership!";
 			return TRUE;
 		}
 	}

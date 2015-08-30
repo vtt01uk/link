@@ -25,7 +25,7 @@
           <ul class="nav navbar-nav navbar-right">
             <li><a href>Hello, <?= $this->session->userdata('first_name') ?></a></li>
             <li><a href="/users/dashboard">Dashboard</a></li>
-            <li><a href="/users/teams">Teams</a></li>
+            <li><a href="/teams">Teams</a></li>
             <li><a href="/events">Events</a></li>
             <li><a href="#">Members</a></li>
             <li><a href="/messages">Messages</a></li>
@@ -65,23 +65,31 @@
     </div>
     <hr>
      <div class="container">
-        <h2 class="text-center">TEAM PERFORMANCES</h2>
+        <h2 class="text-center">OUR NEWEST TEAMS</h2>
         <div class="row">
           <div class="col-md-12">
           <table class="table table-striped">
           <thead>
             <tr>
               <th>Name</th>
-              <th>Members</th>
-              <th>Donations</th>
+              <th>Location</th>
+              <th>Description</th>
               <th>Events</th>
             </tr>
           </thead>
           <tbody>
 <?
-             
+              foreach($teams as $team)
+              {
+                echo "<tr>";
+                echo "<td>{$team['name']}</td>";
+                echo "<td>{$team['description']}</td>";
+                echo "<td>{$team['location']}</td>";
+                echo "<td>{$team['created_at']}</td>";
+                echo "<tr>";
+              }
 
-?>            
+?>              
           </tbody>
 
           </table>
