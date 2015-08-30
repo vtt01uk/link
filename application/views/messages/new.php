@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="LINK">
-    <title>Messages</title>
+    <meta name="author" content="IHL">
+    <title>Compose a New Message</title>
     <!-- Bootstrap core CSS -->
     <link href="/assets/css/bootstrap.css" rel="stylesheet">
     <link href="/assets/css/main.css" rel="stylesheet">
@@ -14,6 +15,7 @@
     <link href="/assets/css/signin.css" rel="stylesheet">
     <link href="/assets/css/dashboard.css" rel="stylesheet">
     <link href="/assets/css/sticky-footer-navbar.css" rel="stylesheet">
+    <link href="/assets/css/chosen/chosen.css" rel="stylesheet">
 </head>
 <body>
 
@@ -48,6 +50,7 @@
     <div class="row">
       <div class="col-sm-3 col-md-2 sidebar">
         <ul class="nav nav-sidebar">
+          <hr>
           <li class="active"><a href="/messages/new_message">New Message <span class="sr-only">(current)</span></a></li>
         </ul>
         <ul class="nav nav-sidebar">
@@ -64,29 +67,42 @@
       </div>
       <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
         <div class="page-header">
-          <h3>Thread Subject started mm/dd/yyyy @ 5:30pm</h3>
+          <h2>Start a New Conversation!</h2>
         </div>
-        <div class="thread-body">
-          <h4>Message thread</h4>
+
+        <div class="col-md-6">
+          <form action="/messages/post_message" method="post">
+            <h4>Who to message?</h4>
+            <select data-placeholder="Who to message" style="width:300px;" multiple class='chosen-select form-control' name='user_id[]' multiple>
+              <option value=""></option>
+              <optgroup label="Teams">
 <?php
-// This will only show incoming messages, not outgoing messages
-      foreach($this->session->userdata('msg_array') as $message)
-      {
-        echo "<p> ".$message['body']."</p>";
-      }
+              foreach($this->session->userdata('teams_names') as $team)
+              {
+                echo "<option value='".$team['id']."'>".$team['name']."</option>";
+              }
 ?>
-        </div> <!-- End div.thread-body -->
-        <form action="/messages/send_message" method="post">
- <!--            <h4>Who to message?</h4>
-            <input type="text" name="username" placeholder="enter user name">
+              </optgroup>  
+              <optgroup label="All People">
+<?php
+              foreach($this->session->userdata('user_names') as $user)
+              {
+                if($user['id'] != $this->session->userdata('user_id')){
+                  echo "<option value='".$user['id']."'>".$user['first_name']." ".$user['last_name']."</option>";
+                }
+              }
+?>
+              </optgroup>
+            </select>
             <h4>Subject</h4>
-            <input type="text" name="subject" placeholder="Message subject"> -->
+            <input type="text" name="subject" placeholder="Message subject">
             <h4>Message</h4>
-            <input type='text' id='message' class='form-control' placeholder='Type your message' name='message' required>
-<!--             <h4>Priority</h4>
-            <input type="text" name="priority" placeholder="0-2">     -->
+            <textarea name="message" id="message" cols="60" rows="10"></textarea>
+            <h4>Priority</h4>
+            <input type="text" name="priority" placeholder="0-2">    
             <input class="btn btn-default" type="submit" value="Send">
           </form>
+        </div> <!-- End div.thread-body -->
       </div> <!-- End div.right column -->
     </div> <!-- End div.row -->
   </div> <!-- End div.container -->
@@ -96,8 +112,22 @@
       <p class="text-muted">Place sticky footer content here.</p>
     </div>
   </footer>
-
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="/assets/js/chosen.jquery.js" type="text/javascript"></script>
+  <script src="/assets/js/docsupport/prism.js" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript">
+    var config = {
+      '.chosen-select'           : {},
+      '.chosen-select-deselect'  : {allow_single_deselect:true},
+      '.chosen-select-no-single' : {disable_search_threshold:10},
+      '.chosen-select-no-results': {no_results_text:'Oops, nothing found!'},
+      '.chosen-select-width'     : {width:"95%"}
+    }
+    for (var selector in config) {
+      $(selector).chosen(config[selector]);
+    }
+  </script>
+  <script src="/assets/js/chosen.jquery.js" type="text/javascript"></script>
   <script src="/assets/js/bootstrap.min.js"></script>
   <script src="/assets/js/main.js"></script>
 </body>

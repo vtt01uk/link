@@ -6,6 +6,8 @@ class Mahana_model extends CI_Model
     {
         parent::__construct();
         $this->load->library('form_validation');
+        $this->output->enable_profiler();
+        date_default_timezone_set('America/Los_Angeles');
     }
  
     /**
@@ -196,6 +198,39 @@ class Mahana_model extends CI_Model
     // ------------------------------------------------------------------------
 
     /**
+     * Get 3 Most Recent Threads - For Messages Front Page
+     *
+     * @param   integer  $user_id
+     * @param   boolean  $full_thread
+     * @param   string   $order_by
+     * @return  array
+     */
+    function get_most_recent_threads($user_id, $full_thread = FALSE, $order_by = 'asc')
+    {
+        $sql = 'SELECT m.*, s.status, t.subject, '.USER_TABLE_USERNAME .
+        ' FROM ' . $this->db->dbprefix . 'msg_participants p ' .
+        ' JOIN ' . $this->db->dbprefix . 'msg_threads t ON (t.id = p.thread_id) ' .
+        ' JOIN ' . $this->db->dbprefix . 'msg_messages m ON (m.thread_id = t.id) ' .
+        ' JOIN ' . $this->db->dbprefix . USER_TABLE_TABLENAME . ' ON (' . USER_TABLE_ID . ' = m.sender_id) '.
+        ' JOIN ' . $this->db->dbprefix . 'msg_status s ON (s.message_id = m.id AND s.user_id = ? ) ' .
+        ' WHERE p.user_id = ? ' ;
+
+        if (!$full_thread)
+        {
+            $sql .= ' AND m.cdate >= p.cdate';
+        }
+
+        $sql .= ' ORDER BY t.id ' . $order_by. ', m.cdate '. $order_by;
+        $sql .= ' LIMIT 3';
+
+        $query = $this->db->query($sql, array($user_id, $user_id));
+
+        return $query->result_array();
+    }
+
+    // ------------------------------------------------------------------------
+
+    /**
      * Change Message Status
      *
      * @param   integer  $msg_id
@@ -373,7 +408,10 @@ class Mahana_model extends CI_Model
      */
     private function _insert_thread($subject)
     {
-        $insert_id = $this->db->insert('msg_threads', array('subject' => $subject));
+        $date = date('Y/m/d h:i:s');
+        $insert_id = $this->db->insert('msg_threads', array(
+            'subject' => $subject,
+            'created_at' => $date));
 
         return $this->db->insert_id();
     }
@@ -389,13 +427,14 @@ class Mahana_model extends CI_Model
      */
     private function _insert_message($thread_id, $sender_id, $body, $priority)
     {
+        $date = date('Y/m/d h:i:s');
         $insert['thread_id'] = $thread_id;
         $insert['sender_id'] = $sender_id;
         $insert['body']      = $body;
         $insert['priority']  = $priority;
+        $insert['created_at'] = $date;
 
         $insert_id = $this->db->insert('msg_messages', $insert);
-
         return $this->db->insert_id();
     }
 

@@ -1,0 +1,337 @@
+cartodb_id,the_geom,cartodb_georef_status,shipping_country,shipping_state_province,shipping_city,shipping_address_line_2,shipping_address_line_3,shipping_address_line_1,shipping_street,account_name,donation_total,last_donation
+233,0101000020E6100000E6965643E28A5EC03411363CBDB64240,true,United States of America,California,Stanford,,,"450 Serra Mall, Stanford, CA 94305","450 Serra Mall, Stanford, CA 94305",Stanford University - Rescue Team,,
+333,0101000020E61000008FDFDBF467E150C02E39EE940E6A4840,true,,,,,,,,,,
+176,,false,United States,New Jersey,Ewing,,,,,New Jersey Community-Rescue Team,,
+136,,false,Canada,Manitoba,Winnipeg,,,,,Kelvin High School-Rescue Team,,
+196,,false,South Korea,Gyeonggi,Paju,,,,,Paju Community-Rescue Team,,
+72,,false,United States,Washington D.C.,Washington D.C.,,,,,DC Metro and Northern Virginia Community - Rescue Team,,
+73,,false,United States,California,Escondido,,,1740 Scenic Trails Way,1740 Scenic Trails Way,Del Lago Academy - Rescue Team,,
+76,,false,United States,Michigan,Detroit,,,,,Detroit Community-Rescue Team,,
+77,,false,United States,New Jersey,Ramsey,,,,,Don Bosco Prep High School - Rescue Team,,
+81,,false,United States,Maryland,Timonium,,,,,Dulaney High School-Rescue Team,,
+82,,false,United States,North Carolina,Chapel Hill,,,,,East Chapel Hill High School-Rescue Team,,
+84,,false,United Kingdom,Scotland,Edinburgh,,,,,Edinburgh Community -Rescue Team,,
+85,,false,United States,Illinois,Chicago,,,,,Elmhurst College-Rescue Team,,
+86,,false,United States,CA,Orange,,,3920 E Spring Street,3920 E Spring Street,El Modena High School-Rescue Team,,
+88,,false,United States,New Jersey,Fair Lawn,,,14-00 Berdan Ave,14-00 Berdan Ave,Fair Lawn High School - Rescue Team,,
+5,,false,United Arab Emirates,Abu Dhabi,Abu Dhabi,,,,,American Community School-Rescue Team,,2014-08-29 11:45:35+00
+7,,false,United States,Alaska,Anchorage,,,,,Anchorage Community-Rescue Team,,2014-08-29 11:45:41+00
+8,,false,France,Pays de la Loire,Angers,,,,,Angers Community - Rescue Team,,2014-08-29 11:45:44+00
+17,,false,United States,California,Bakersfield,,,1241 G St,1241 G St,Bakersfield High School-Rescue Team,,2014-08-29 11:46:25+00
+10,,false,United States,California,Irvine,,,3588 Bryan Ave,3588 Bryan Ave,Arnold O. Beckman High School - Rescue Team,,2014-08-29 11:45:49+00
+22,,false,United States,Idaho,Boise,,,,,Boise State University-Rescue Team,,2014-08-29 11:46:38+00
+18,0101000020E6100000AE81AD122C5A55C068E89FE062194440,true,United States of America,Indiana,Muncie,,,"2000 W University Ave, Muncie, IN 47306","2000 W University Ave, Muncie, IN 47306",Ball State University - Rescue Team,100,2015-08-29 11:46:29+00
+19,0101000020E6100000E02D90A0F80155C0412B3064751F4240,true,United States,Tennessee,Nashville,,,1900 Belmont Boulevard,1900 Belmont Boulevard,Belmont University-Rescue Team,100,2015-08-29 11:46:32+00
+20,0101000020E6100000BB7EC16ED88252C09A25016A6A714440,true,United States,New Jersey,Hackensack,,,200 Hackensack Avenue,200 Hackensack Avenue,Bergen County Academies - Rescue Team,100,2015-08-29 11:46:33+00
+24,,false,United States,Massachusetts,Boston,,,,,Boston College-Rescue Team,,2014-08-29 11:46:48+00
+25,,false,United States,Massachusetts,Boston,,,,,Boston Conservatory - Rescue Team,,2014-08-29 11:46:56+00
+26,,false,United States,Massachusetts,Boston,,,78 Louis Pasteur Ave.,78 Louis Pasteur Ave.,Boston Latin School - Rescue Team,,2014-08-29 11:47:00+00
+29,,false,United States,Massachusetts,Waltham,,,,,Brandeis University-Rescue Team,,2014-08-29 11:47:16+00
+30,,false,United Kingdom,England,Bristol,,,,,Bristol Community-Rescue Team,,2014-08-29 11:47:19+00
+59,,false,Canada,Prince Edward Island,Charlottetown,,,,,Colonel Gray High School-Rescue Team,,2014-08-29 11:48:58+00
+32,0101000020E6100000E5FA2DF04B0F54C09EB5DB2E34634440,true,United States,Pennsylvania,Bryn Mawr,,,101 N Merion Ave,101 N Merion Ave,Bryn Mawr College-Rescue Team,100,2015-08-29 11:47:24+00
+35,0101000020E61000002A6F47382D2457C05C38109205504340,true,United States,California,Fresno,,,5241 North Maple Avenue,5241 North Maple Avenue,"California State University, Fresno-Rescue Team",100,2015-08-29 11:47:34+00
+40,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Carlsbad,,,,,Carlsbad High School-Rescue Team,100,2015-08-29 11:47:51+00
+37,0101000020E6100000C139234A7BEB54C09C16BCE82B7C4540,true,United States,Michigan,Grand Rapids,,,3201 Burton St SE,3201 Burton St SE,Calvin College - Rescue Team,100,2015-08-29 11:47:38+00
+61,,false,United States,Pennsylvania,Berwyn,,,,,Conestoga High School-Rescue Team,,2014-08-29 11:49:02+00
+64,,false,United States,North Carolina,Shelby,,,,,Crest High School-Rescue Team,,2014-08-29 11:49:17+00
+65,,false,United States,Arkansas,Cherry Valley,,,,,Cross County High School - Rescue Team,,2014-08-29 11:49:19+00
+69,,false,South Korea,Yeongnam,Daegu,,,,,Daegu Community-Rescue Team,,2014-08-29 11:49:29+00
+67,0101000020E6100000D8D825AAB75054C01283C0CAA1753C40,true,United States of America,Florida,Weston,,,"18600 Vista Park Blvd,","18600 Vista Park Blvd,",Cypress Bay High School - Rescue Team,100,2015-08-29 11:49:24+00
+70,,false,Canada,Nova Scotia,Halifax,,,,,Dalhousie University-Rescue Team,,2014-08-29 11:49:31+00
+78,0101000020E610000032ACE28DCC795EC0A60A462575E24240,true,United States of America,California,San Ramon,,,"10550 Albion Rd, San Ramon, CA 94582","10550 Albion Rd, San Ramon, CA 94582",Dougherty Valley High School - Rescue Team,500,2014-08-29 11:49:49+00
+91,0101000020E61000001ED7D0178C8C53C019AF795567FC4540,true,Canada,Ontario,Peterborough,,,"1005 Elgin Street W., Cobourg, ON K9A 5J4, Canada","1005 Elgin Street W., Cobourg, ON K9A 5J4, Canada",Fleming College - Rescue Team,500,2014-08-29 11:50:06+00
+93,0101000020E61000008811C2A38D7D5DC0D97C5C1B2ADA4040,true,United States,California,Fountain Valley,,,"17816 Bushard Street Fountain Valley, CA 92708","17816 Bushard Street Fountain Valley, CA 92708",Fountain Valley High School - Rescue Team,500,2014-08-29 11:50:09+00
+94,0101000020E6100000BEC1172653D75EC05F46B1DCD2364840,true,Canada,British Columbia,Surrey,,,,,Fraser Heights Secondary School-Rescue Team,500,2014-08-29 11:50:12+00
+100,0101000020E610000037FDD98F147F5DC0B8921D1B81904140,true,United States,California,Hacienda Heights,,,16455 Wedgeworth Drive,16455 Wedgeworth Drive,Glen A. Wilson High School - Rescue Team,500,2014-08-29 11:50:25+00
+112,0101000020E610000055E87239947952C00381295EC0724440,true,United States,New York,Clinton,"Clinton, NY 13323",,198 College Hill Road,"198 College Hill Road Clinton, NY 13323",Hamilton College - Rescue Team,500,2014-08-29 11:50:37+00
+89,,false,France,Gaudeloupe,Morne-A-l'Eau,,,,,Faustin Fl_ret High School - Rescue Team,,
+92,,false,United States,Florida,Fort Myers,,,10501 Fgcu Blvd S,10501 Fgcu Blvd S,Florida Gulf Coast University-Rescue Team,,
+175,0101000020E610000096314FF8B66F57C00D9F19694E113E40,true,United States,California,Pasadena,,,301 N Orange Grove Blvd,301 N Orange Grove Blvd,Neighborhood Unitarian Universalist Church of Pasadena-Rescue Team,,
+159,0101000020E61000001292BBBEC57952C07BBBCA7FED714440,true,United States,New York,Riverdale,,,4513 Manhattan College Parkway,4513 Manhattan College Parkway,Manhattan College - Rescue Team,,
+160,0101000020E6100000F697DD93871154C0B9C7D2872E183A40,true,United States,Florida,Parkland,,,5901 Pine Island Rd.,5901 Pine Island Rd.,Marjory Stoneman Douglas High School-Semi Rescue Team,,
+119,,false,United States,Michigan,Ann Arbor,,,,,Huron High School-Rescue Team,,
+120,,false,South Korea,Gyeonggi,Incheon,,,,,Incheon International High School-Rescue Team,,
+123,,false,Singapore,Singapore,Singapore,,,,,International Community School (Singapore)-Rescue Team,,
+125,,false,United States,Indiana,Carmel,,,,,Ivy Tech Community College-Semi Rescue Team,,
+132,,false,Canada,Ontario,Toronto,,,Lawrence Ave W,Lawrence Ave W,John Polanyi Collegiate Institute-Semi Rescue Team,,
+133,,false,United States,Maryland,Baltimore,,,,,Johns Hopkins University-Rescue Team,,
+138,,false,United States,Washington,Kent,,,10020 SE 256th St,10020 SE 256th St,Kent-Meridian High School - Rescue Team,,
+140,,false,United States,Illinois,Galesburg,,,,,Knox College- Rescue Team,,
+141,,false,South Korea,Gyeonggi-do,Seongnam,,,"373-6 Baekhyun-dong, Bundang-gu","373-6 Baekhyun-dong, Bundang-gu",Korea International School (KIS)-Rescue Team,,
+142,,false,South Korea,Gyeonggi,Bucheon,,,,,Korean International Christian School-Semi-Rescue Team,,
+143,,false,South Korea,Gangwon-do,Hoengseong-gun,,,"800 Bongwha-ro, Anheung-myeon","800 Bongwha-ro, Anheung-myeon",Korean Minjok Leadership Academy - Rescue Team,,
+144,,false,United States,Florida,Fort Lauderdale,,,,,Korean Presbyterian Church of Miami - Rescue Team,,
+153,,false,United States,Washington,Spokane,,,,,Lewis and Clark High School - Rescue Team,,
+154,,false,United States,Massachusetts,Lexington,,,,,Lexington High School-Rescue Team,,
+155,,false,United States,Washington,Lynwood,,,,,Lynwood High School - Rescue Team,,
+234,0101000020E6100000487DA367449452C030D1C54BDC4B4440,true,United States,New York,Geneseo,,,101 College Circle,101 College Circle,"State University of New York, Geneseo - Rescue Team",,
+235,0101000020E6100000F8286DBB1AC452C0C49ED1B1DE3B4540,true,United States of America,New York,Oneonta,,,"108 Ravine Pkwy, Oneonta, NY 13820","108 Ravine Pkwy, Oneonta, NY 13820",State University of New York Oneonta- Rescue Team,,
+215,0101000020E6100000EDF5EE8FF7EA55C0C139234A7B034540,true,United States,Illinois,Arlington Heights,,,1213 E Oakton St.,1213 E Oakton St.,Saint Viator High School-Rescue Team,,
+188,0101000020E6100000C7F484251EF257C05726FC523F8F3D40,true,United States,Texas,Austin,,,12301 N. Lamar Blvd.,12301 N. Lamar Blvd.,NYOS Charter School - Rescue Team,,
+206,0101000020E6100000761A69A9BCF35BC01AC05B2041514540,true,United States,Idaho,Meridian,,,1307 E. Central Drive,1307 E. Central Drive,Renaissance Magnet High School - Rescue Team,,
+207,0101000020E6100000EAB298D87C5456C062F3716DA8044540,true,United States,Oregon,Troutdale,,,1698 SW Cherry Park Rd.,1698 SW Cherry Park Rd.,Reynolds High School - Rescue Team,,
+183,,false,United States,Massachusetts,Mount Hermon,,,One Lamplighter Way,One Lamplighter Way,Northfield Mount Hermon - Rescue Team,,
+184,,false,United States,Pennsylvania,Lansdale,,,,,North Penn High School-Rescue Team,,
+185,,false,United States,Georgia,Johns Creek,,,10625 Parsons Rd,10625 Parsons Rd,Northview High School - Rescue Team,,
+189,,false,United States,Ohio,Columbus,,,,,Ohio State University - Rescue Team,,
+190,,false,United States,Ohio,Athens,,,,,Ohio University-Rescue Team,,
+191,,false,United States,Florida,Miami,,,,,Open Source-Rescue Team,,
+251,,false,United States,North Carolina,Southern Pines,,,,,The O'Neal School-Rescue Team,,
+198,,false,United States,Pennsylvania,State College,,,"University Park, State College","University Park, State College",Pennsylvania State University - Rescue Team,,
+199,,false,United States,Massachusetts,Andover,,,180 Main Street,180 Main Street,Phillips Academy Andover-Rescue Team,,
+200,,false,United States,New Hampshire,Exeter,,,,,Phillips Exeter Academy - Rescue Team,,
+202,,false,United States,California,Poway,,,15500 Espola Rd.,15500 Espola Rd.,Poway High School - Rescue Team,,
+203,,false,United States,Indiana,West Lafayette,,,,,Purdue University - Rescue Team,,
+130,0101000020E61000009F1F46088F7C5DC0BE30992A18914140,true,United States,California,La Palma,,,8281 Walker St.,8281 Walker St.,John F. Kennedy High School-Rescue Team,1000,
+134,0101000020E6100000B1B7DE8060C755C033C2DB83108F4040,true,United States,Alabama,Marion,,,302 Bibb Street,302 Bibb Street,Judson College-Rescue Team,1000,
+139,0101000020E6100000CE3637A627CE59C01B2FDD2406154440,true,United States,Washington,Seattle,,,19303 Fremont Ave N,19303 Fremont Ave N,King's High School - Rescue Team,1000,
+156,0101000020E6100000B48EAA26887057C065FCFB8C0B174740,true,United States,Minnesota,St. Paul,,,1600 Grand Ave.,1600 Grand Ave.,Macalester College-Rescue Team,1000,
+204,,false,United States,Massachusetts,Quincy,,,,,Quincy Community - Rescue Team,,
+205,,false,United States,North Carolina,Raleigh,,,7409 Falls of Neuse Road,7409 Falls of Neuse Road,Ravenscroft School - Rescue Team,,
+208,,false,United States,Vermont,Burlington,,,,,Rice Memorial High School-Semi Rescue Team,,
+209,,false,United States,New Jersey,Basking Ridge,,,,,Ridge High School - Rescue Team,,
+210,,false,United States,Illinois,Rockford,,,,,Rock Valley College-Rescue Team,,
+124,0101000020E61000005EBA490C028B5DC0F7065F984CE94040,true,United States,California,Irvine,,,4321 Walnut Ave,4321 Walnut Ave,Irvine High School - Rescue Team,1000,2014-08-29 11:51:00+00
+289,0101000020E6100000111E6D1CB1545DC053E8BCC62E094140,true,United States,California,Redlands,,,1200 East Colton Avenue,1200 East Colton Avenue,University of Redlands - Rescue Team,,2014-08-29 11:52:34+00
+246,0101000020E6100000D1CB28965BC852C09CDCEF5014284440,true,United States,Pennsylvania,Philadelphia,,,1801 N. Broad Street,1801 N. Broad Street,Temple University - Rescue Team,,
+281,0101000020E610000037548CF3376D54C0B9AAECBB22BC4440,true,United States,Ohio,Alliance,,,1972 Clark Ave,1972 Clark Ave,University of Mount Union-Semi Rescue Team,,
+253,0101000020E6100000226C787AA5CA51C0317C444C89304540,true,United States,Massachusetts,Easthampton,,,19 Payson Avenue,19 Payson Avenue,The Williston Northampton School - Rescue Team,,
+263,0101000020E6100000F6FFBB4F1F1555C0EB9CB00E916F4340,true,United States,California,Berkeley,,,"200 California Hall, Ste. 1500","200 California Hall, Ste. 1500","University of California, Berkeley (Cal) - Rescue Team",,
+249,0101000020E610000082EFECE1013358C05CACA8C1346C4040,true,United States,Texas,Fort Worth,,,2800 S. University Dr.,2800 S. University Dr.,Texas Christian University-Rescue Team,,
+282,0101000020E61000004F65074BABBB52C040C1C58A1A404540,true,United States,Nevada,Las Vegas,,,4505 S. Maryland Pkwy.,4505 S. Maryland Pkwy.,University of Nevada Las Vegas -Rescue Team,,
+267,0101000020E610000046DBE7E7BCF853C05C3D27BD6F084440,true,United States,California,Riverside,,,900 University Ave,900 University Ave,"University of California, Riverside-Rescue Team",,
+254,,false,United States of America,California,San Diego,,,,,Torrey Pines High School-Rescue Team,,
+255,,false,United States,Massachusetts,Medford,,,,,Tufts University - Rescue Team,,
+256,,false,United States,Tennessee,Jackson,,,,,Union University-Rescue Team,,
+257,,false,Singapore,Singapore,Singapore,,,,,United World College of South East Asia (UWCSEA) - Rescue Team,,
+258,,false,United Kingdom,England,London,,,,,University College London-Rescue Team,,
+259,,false,United States,Alabama,Birmingham,,,,,University of Alabama at Birmingham - Rescue Team,,
+260,,false,United States,Arizona,Tuscon,,,,,University of Arizona-Rescue Team,,
+334,0101000020E61000008FDFDBF467E150C02E39EE940E6A4840,true,,,,,,,,Rescue Teams,,
+335,0101000020E61000008FDFDBF467E150C02E39EE940E6A4840,true,,,,,,,,"Copyright (c) 2000-2015 salesforce.com, inc. All rights reserved.",,
+336,0101000020E61000008FDFDBF467E150C02E39EE940E6A4840,true,,,,,,,,Confidential Information - Do Not Distribute,,
+337,0101000020E61000008FDFDBF467E150C02E39EE940E6A4840,true,,,,,,,,Generated By: Rescue Teams 8/28/2015 9:02 PM,,
+322,0101000020E6100000213CDA38625F5CC02EE23B31EBC54A40,true,Canada,Alberta,Calgary,,,,,William Aberhart High School - Rescue Team,,
+262,0101000020E6100000BEC1172653D75EC05F46B1DCD2364840,true,Canada,British Columbia,Vancouver,,,,,University of British Columbia-Rescue Team,,
+329,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Irvine,,,,,Woodbridge High School-Rescue Team,,
+325,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Santa Clarita,,,,,William S. Hart High School-Rescue Team,,
+321,0101000020E6100000A20BEA5BE65258C0A5660FB402DB4240,true,United States,Kansas,Wichita,,,1845 Fairmount St.,1845 Fairmount St.,Wichita State University - Rescue Team,,
+328,0101000020E61000001B2AC6F99B7853C0EE5F5969526A4540,true,United States,New York,Rochester,,,501 Genesee Street,501 Genesee Street,Wilson Commencement Magnet High School-Rescue Team,,
+305,,false,United States,Massachusetts,Natick,,,,,Walnut Hill School for the Arts-Rescue Team,,
+307,,false,United States of America,Kansas,Topeka,,,,,Washburn Rural HIgh School - Rescue Team,,
+308,,false,United States,Missouri,St. Louis,,,,,Washington University in St. Louis - Rescue Team,,
+309,,false,United States,Michigan,Ann Arbor,,,,,Washtenaw Community College-Semi Rescue Team,,
+310,,false,United States,New Jersey,Englewood,,,,,Watchung Hills Regional High School - Rescue Team,,
+312,,false,United States,Connecticut,Middletown,,,,,Wesleyan University - Rescue Team,,
+68,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Orange County,,,,,Cypress High School-Rescue Team,100,2015-08-29 11:49:26+00
+74,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,San Diego,,,,,Del Norte High School - Rescue Team,500,2014-08-29 11:49:40+00
+80,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Downey,,,,,Downey High School-Rescue Team,500,2014-08-29 11:49:55+00
+83,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Monterey Park,,,,,East Los Angeles College-Rescue Team,500,2014-08-29 11:49:59+00
+102,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Glendora,,,,,Glendora High School-Rescue Team,500,2014-08-29 11:50:29+00
+115,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Studio City,,,,,Harvard-Westlake School -Rescue Team,500,2014-08-29 11:50:41+00
+320,0101000020E6100000ECDD1FEF55F352C085251E5036A54440,true,United States,Illinois,Chicago,,,211 S Laflin St,211 S Laflin St,Whitney M. Young Magnet High School- Rescue Team,,2014-08-29 11:51:33+00
+318,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Wheatland,,,,,Wheatland High School-Rescue Team,,2014-08-29 11:51:38+00
+316,0101000020E6100000CAA65CE15D1E5EC06EDA311A9E864440,true,United States,California,Pasadena,"Pasadena, California 91105",,"324 Madeline Drive,","324 Madeline Drive, Pasadena, California 91105",Westridge School - Rescue Team,,2014-08-29 11:51:42+00
+315,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Santa Clarita,,,,,West Ranch High School-Rescue Team,,2014-08-29 11:51:45+00
+314,0101000020E6100000D50968226C805DC05648F949B5DB4040,true,United States of America,California,Westminster,,,14325 Goldenwest Street,14325 Goldenwest Street,Westminster High School - Rescue Team,,2014-08-29 11:51:48+00
+304,0101000020E610000051F701486D7C5DC00E9EAE939F884140,true,United States,California,Walnut,,,400 Pierre Rd,400 Pierre Rd,Walnut High School-Rescue Team,,2014-08-29 11:52:03+00
+301,0101000020E6100000EC866D8B32CD54C0D55B035B25FC4140,true,United States,Tennessee,Nashville,,,2201 West End Avenue,2201 West End Avenue,Vanderbilt University - Rescue Team,,2014-08-29 11:52:13+00
+300,0101000020E6100000BEC1172653D75EC05F46B1DCD2364840,true,Canada,British Columbia,Vancouver,,,,,Vancouver Korean Presbyterian Church-Rescue Team,,2014-08-29 11:52:17+00
+313,,false,United States,Virginia,Chantilly,,,4700 Stonecroft Blvd,4700 Stonecroft Blvd,Westfield High School - Rescue Team,,
+317,,false,United States,Pennsylvania,West Chester,,,,,Westtown School - Rescue Team,,
+319,,false,United States,Illinois,Wheaton,,,,,Wheaton College-Rescue Team,,
+323,,false,United States,Illinois,Palatine,,,,,William Fremd High School-Rescue Team,,
+324,,false,United States,New Jersey,Wayne,,,,,William Paterson University-Rescue Team,,
+161,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Los Angeles,,,,,Marlborough High School-Rescue Team,,
+172,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,San Jose,,,,,Milpitas High School - Rescue Team,,
+181,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Pleasanton,,,,,NorCal Community-Rescue Team,,
+192,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Orange County,,,,,Orange County School of the Arts - Rescue Team,,
+195,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Carlsbad,,,,,Pacific Ridge School-Rescue Team,,
+197,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Pacific Palisades,,,,,Palisades Charter High School-Rescue Team,,
+268,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,La Jolla,,,,,"University of California, San Diego (UCSD) - Rescue Team",,
+201,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Pasadena,,,,,Polytechnic High School (Pasadena)-Rescue Team,,
+266,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Los Angeles,,,,,"University of California, Los Angeles - Rescue Team",,
+265,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Irvine,,,,,"University of California, Irvine - Rescue Team",,
+264,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Davis,,,,,"University of California, Davis (UCD)-Rescue Team",,
+217,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,San Jose,,,,,San Jose Community-Rescue Team,,
+218,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Corona,,,,,Santiago High School - Rescue Team,,
+250,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,La Jolla,,,,,The Bishop's School-Rescue Team,,
+241,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Porterville,,,,,Summit Charter Collegiate Academy-Rescue Team,,
+242,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Fullerton,,,,,Sunny Hills High School-Rescue Team,,
+252,0101000020E6100000DEC83CF2071955C0AB7823F3C8DF4040,true,United States,Georgia,Atlanta,,,,,The Westminster School-Rescue Team,,
+127,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Los Angeles,,,,,J Concert Artists - Semi - Rescue Team,1000,
+129,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Vallejo,,,,,Jesse Bethel High School-Rescue Team,1000,
+131,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Norco,,,,,John F. Kennedy Middle College High School - Rescue Team,1000,
+135,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Fontana,,,,,Jurupa Hills High School - Rescue Team,1000,
+137,0101000020E6100000DEC83CF2071955C0AB7823F3C8DF4040,true,United States,Georgia,Kennesaw,,,,,Kennesaw State University - Rescue Team,1000,
+146,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,La Ca_ada Flintridge,,,,,La Ca_ada High School - Rescue Team,1000,
+147,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Los Angeles,,,,,LA Comedy - Rescue Team,1000,
+149,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,San Jose,,,,,Leigh High School-Rescue Team,1000,
+150,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,San Jose,,,,,Leland High School-Rescue Team,1000,
+219,0101000020E6100000DEC83CF2071955C0AB7823F3C8DF4040,true,United States,Georgia,Savannah,,,,,Savannah Arts Academy-Rescue Team,,
+272,0101000020E6100000DEC83CF2071955C0AB7823F3C8DF4040,true,United States,Georgia,Athens,,,,,University of Georgia-Rescue Team,,
+277,0101000020E6100000AD6EF59CF4EA57C0672C9ACE4E864340,true,United States,Kansas,Lawrence,,,,,University of Kansas - Rescue Team,,
+232,0101000020E6100000F65D11FC6FA50DC0D9942BBCCB354440,true,Spain,Madrid,Madrid,,,,,Spain Community-Rescue Team,,
+280,0101000020E6100000156F641EF94557C0E97DE36BCF784640,true,United States,Minnesota,Minneapolis,,,,,University of Minnesota-Rescue Team,,
+283,0101000020E610000091F2936A9FE66240014D840D4FEF40C0,true,Australia,New South Wales,Sydney,,,,,University of New South Wales - Rescue Team,,
+9,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,San Jose,,,,,Archbishop Mitty High School-Rescue Team,100,2014-08-29 11:45:46+00
+12,0101000020E6100000DEC83CF2071955C0AB7823F3C8DF4040,true,United States,Georgia,Athens,,,,,Athens Community - Rescue Team,100,2015-08-29 11:46:10+00
+87,0101000020E6100000DEC83CF2071955C0AB7823F3C8DF4040,true,United States,Georgia,Atlanta,,,,,Emory University - Rescue Team,500,2014-08-29 11:50:02+00
+99,0101000020E6100000DEC83CF2071955C0AB7823F3C8DF4040,true,United States,Georgia,Atlanta,,,,,Georgia Institute of Technology - Rescue Team,500,2014-08-29 11:50:22+00
+311,0101000020E6100000156F641EF94557C0E97DE36BCF784640,true,United States,Minnesota,Plymouth,,,,,Wayzata High School-Rescue Team,,2014-08-29 11:51:52+00
+306,0101000020E6100000DEC83CF2071955C0AB7823F3C8DF4040,true,United States,Georgia,Marietta,,,,,Walton High School-Rescue Team,,2014-08-29 11:52:00+00
+302,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Van Nuys,,,,,Van Nuys High School - Rescue Team,,2014-08-29 11:52:09+00
+292,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Los Angeles,,,,,University of Southern California (USC) - Rescue Team,,2014-08-29 11:52:30+00
+244,0101000020E610000091F2936A9FE66240014D840D4FEF40C0,true,Australia,New South Wales,Sydney,,,,,Sydney Community-Rescue Team,,
+179,0101000020E610000071C971A7748052C0ACADD85F765B4440,true,United States,New York,New York City,,,,,New York University - Rescue Team,,
+229,,false,United States,Colorado,Boulder,,,,,Southern Hills Middle School-Rescue Team,,
+178,0101000020E610000071C971A7748052C0ACADD85F765B4440,true,United States,New York,New York City,,,,,New York Community - Rescue Team,,
+245,0101000020E610000071C971A7748052C0ACADD85F765B4440,true,United States,New York,Syracuse,,,,,Syracuse University - Rescue Team,,
+194,0101000020E610000071C971A7748052C0ACADD85F765B4440,true,United States,New York,New York City,,,,,Pace University-Semi-Rescue Team,,
+243,0101000020E610000071C971A7748052C0ACADD85F765B4440,true,United States,New York,New Paltz,,,,,SUNY-New Paltz-Rescue Team,,
+327,0101000020E610000000000000A6AC86C0D78F80DB00BF4C40,true,United States,Oregon,Ashland,,,,,Willow Wind - Rescue Team,,
+326,0101000020E610000000000000A6AC86C0D78F80DB00BF4C40,true,United States,Oregon,Ashland,,,,,Willow Wind Community Learning Center-Rescue Team,,
+247,0101000020E610000053D0ED258D6F58C094BC3AC780443E40,true,United States,Texas,College Station,,,,,Texas A&M Univeristy- Central Texas-Rescue Team,,
+230,0101000020E610000053D0ED258D6F58C094BC3AC780443E40,true,United States,Texas,Dallas,,,,,Southern Methodist University-Rescue Team,,
+216,0101000020E610000053D0ED258D6F58C094BC3AC780443E40,true,United States,Texas,San Antonio,,,,,San Antonio Community - Rescue Team,,
+165,0101000020E610000053D0ED258D6F58C094BC3AC780443E40,true,United States,Texas,Houston,,,,,Memorial High School (Houston)-Rescue Team,,
+248,0101000020E610000053D0ED258D6F58C094BC3AC780443E40,true,United States,Texas,College Station,,,,,Texas A&M University-Rescue Team,,
+166,0101000020E6100000BEC1172653D75EC05F46B1DCD2364840,true,Australia,Victoria,Melbourne,,,,,Mentone Girls' Grammar School - Rescue Team,,
+164,0101000020E6100000BEC1172653D75EC05F46B1DCD2364840,true,Australia,Victoria,Melbourne,,,,,Melbourne High School (Australia)-Rescue Team,,
+71,0101000020E610000053D0ED258D6F58C094BC3AC780443E40,true,United States,Texas,Dallas,,,,,Dallas Community - Rescue Team,,
+128,0101000020E610000053D0ED258D6F58C094BC3AC780443E40,true,United States,Texas,Houston,,,,,Jersey Village High School - Rescue Team,,
+148,0101000020E610000044FAEDEBC05B53C03E7958A835C54240,true,United States,Virginia,Burke,,,,,Lake Braddock Secondary School-Rescue Team,1000,
+151,0101000020E610000071C971A7748052C0ACADD85F765B4440,true,United States,New York,Syracuse,,,,,Le Moyne College-Rescue Team,1000,
+152,0101000020E6100000E6550000A6AC86C0A6A587DB00BF4C40,true,United States,Oregon,Portland,,,,,Lewis and Clark College-Rescue Team,1000,
+294,0101000020E610000053D0ED258D6F58C094BC3AC780443E40,true,United States,Texas,Austin,,,,,University of Texas at Austin - Rescue Team,10000,
+239,0101000020E6100000E9B7AF03E78052C0EB39E97DE35B4440,true,United States,New York,New York,,,345 Chambers Street,345 Chambers Street,Stuyvesant High School - Rescue Team,,
+187,0101000020E6100000ACFF73982F4952C0E96514CB2D594540,true,United States,Florida,Davie,,,3600 College Ave.,3600 College Ave.,Nova High School (Davie)-Rescue Team,,
+240,0101000020E610000075B0FECF61B656C062A1D634EFAC4440,true,United States,Illinois,Chicago,,,3700 W 103rd St,3700 W 103rd St,St. Xavier University-Rescue Team,,
+186,0101000020E61000007138F3AB39765DC068D0D03FC1E14040,true,United States,California,Irvine,,,4515 Portola Parkway.,4515 Portola Parkway.,Northwood High School - Rescue Team,,
+193,0101000020E610000045813E9127815DC0EF7211DF89E94040,true,United States,California,Cypress,,,"5172 Orange Ave, Buena Park State","5172 Orange Ave, Buena Park State",Oxford Academy - Rescue Team,,
+231,,false,United States,California,Torrance,,,4801 Pacific Coast Hwy,4801 Pacific Coast Hwy,South High School (Torrance)-Rescue Team,,
+14,0101000020E610000053D0ED258D6F58C094BC3AC780443E40,true,United States,Texas,Sherman,,,,,Austin College - Rescue Team,100,2015-08-29 11:46:17+00
+15,0101000020E610000053D0ED258D6F58C094BC3AC780443E40,true,United States,Texas,Austin,,,,,Austin Community-Rescue Team,100,2015-08-29 11:46:22+00
+21,0101000020E610000071C971A7748052C0ACADD85F765B4440,true,United States,New York,Binghamton,,,,,Binghamton University - Rescue Team,100,2015-08-29 11:46:34+00
+39,0101000020E6100000156F641EF94557C0E97DE36BCF784640,true,United States,Minnesota,Northfield,,,,,Carleton College-Rescue Team,100,2015-08-29 11:47:47+00
+47,0101000020E610000044FAEDEBC05B53C03E7958A835C54240,true,United States,Virginia,Centreville,,,,,Centreville High School- Rescue Team,100,2015-08-29 11:48:21+00
+48,0101000020E610000044FAEDEBC05B53C03E7958A835C54240,true,United States,Virginia,Chantilly,,,,,Chantilly High School-Rescue Team,100,2015-08-29 11:48:23+00
+56,0101000020E610000053D0ED258D6F58C094BC3AC780443E40,true,United States,Texas,San Antonio,,,,,"Claudia Taylor ""Lady Bird"" Johnson High School-Rescue Team",100,2015-08-29 11:48:48+00
+96,0101000020E610000044FAEDEBC05B53C03E7958A835C54240,true,United States,Virginia,Falls Church,,,,,George Mason High School-Rescue Team,500,2014-08-29 11:50:15+00
+97,0101000020E610000044FAEDEBC05B53C03E7958A835C54240,true,United States,Virginia,Fairfax,,,,,George Mason University- Rescue Team,500,2014-08-29 11:50:18+00
+98,0101000020E610000029F51BDC0C4353C0F302ECA353734340,true,United States,Washington D.C.,Washington D.C.,,,2121 I St NW,2121 I St NW,George Washington University-Rescue Team,500,2014-08-29 11:50:20+00
+118,0101000020E610000071C971A7748052C0ACADD85F765B4440,true,United States,New York,New York,,,,,Hunter College Campus High School-Rescue Team,500,2014-08-29 11:50:49+00
+303,0101000020E610000071C971A7748052C0ACADD85F765B4440,true,United States,New York,Poughkeepsie,,,,,Vassar College - Rescue Team,,2014-08-29 11:52:06+00
+297,0101000020E610000044FAEDEBC05B53C03E7958A835C54240,true,United States,Virginia,Charlottesville,,,,,University of Virginia - Rescue Team,,2014-08-29 11:52:21+00
+295,0101000020E610000053D0ED258D6F58C094BC3AC780443E40,true,United States,Texas,Dallas,,,,,University of Texas at Dallas-Rescue Team,,2014-08-29 11:52:24+00
+225,0101000020E6100000226C787AA5645DC01AA88C7F9F354140,true,United States of America,California,Phelan,,,"9292 Sheep Creek Rd, Phelan, CA 92371","9292 Sheep Creek Rd, Phelan, CA 92371",Serrano High School - Rescue Team,,
+95,,false,United States,South Carolina,Greenville,,,3300 Poinsett Highway,3300 Poinsett Highway,Furman University-Rescue Team,,
+101,,false,United States,Ilinois,Glenview,,,,,Glenbrook South High School-Rescue Team,,
+103,,false,United States,Maryland,Ellicott City,,,,,Glenelg Country School-Rescue Team,,
+104,,false,South Korea,North Gyeongsang,Mungyeong,,,,,Global Vision Christian School-Rescue Team,,
+106,,false,United States,Michigan,Grand Rapids,,,,,Grand Rapids Community-Rescue Team,,
+107,,false,United States,New Hampshire,Portsmouth,,,,,Great Bay Community- Rescue Team,,
+108,,false,United States,Iowa,Grinnell,,,"Box 4808, 1115 8th Ave","Box 4808, 1115 8th Ave",Grinnell College - Rescue Team,,
+109,,false,South Korea,North Jeolla,Gunsan,,,,,Gunsan Community-Rescue Team,,
+110,,false,South Korea,Gyeonggi,Gwangju,,,,,Gwangju Community-Semi-Rescue Team,,
+111,,false,South Korea,Gyeonggi,Suwon,,,,,Gyeonggi Suwon International School - Rescue Team,,
+113,,false,United States,Maryland,Columbia,,,,,Hammond High School-Rescue Team,,
+114,,false,United States,Massachusetts,Amherst,,,,,Hampshire College-Semi-Rescue Team,,
+116,,false,China,Hong Kong,Hong Kong,,,,,Hong Kong Community -Rescue Team,,
+158,,false,Sweden,Scania,Malmo,,,"Regementsgatan 36, 211 42 Malm_, Sweden","Regementsgatan 36, 211 42 Malm_, Sweden",Malmo Borgarskolan - Rescue Team,,
+162,,false,United States,Massachusetts,Boston,,,,,Massachusetts Institute of Technology - Rescue Team,,
+163,,false,Canada,Quebec,Montreal,,,,,McGill University-Rescue Team,,
+167,,false,United States,New Hampshire,Merrimack,,,,,Merrimack High School-Rescue Team,,
+168,,false,United States,Ohio,Oxford,,,,,Miami University Oxford -Semi- Rescue Team,,
+169,,false,United States,Michigan,East Lansing,,,,,Michigan State University-Rescue Team,,
+170,,false,United States,Tennessee,Murfreesboro,,,,,Middle Tennessee State University - Rescue Team,,
+171,,false,South Africa,Gauteng,Midrand,,,,,Midrand Graduate Institute-Rescue Team,,
+173,,false,United States,Missouri,Springfield,,,,,Missouri State University - Rescue Team,,
+174,,false,United States,Massachusetts,South Hadley,,,,,Mount Holyoke College - Rescue Team,,
+177,,false,United States,Massachusetts,Newton,,,,,Newton South High School - Rescue Team,,
+180,,false,United States,Missouri,Nixa,,,,,Nixa High School-Semi-Rescue Team,,
+182,,false,United States,Massachusetts,Boston,,,,,Northeastern University -Rescue Team,,
+211,,false,United States of America,Minnesota,Roseville,,,1240 County Road B2 W,1240 County Road B2 W,Roseville Area High School - Rescue Team,,
+212,,false,United States,New Jersey,Sewell,,,,,Rowan College at Gloucester County-Rescue Team,,
+213,,false,Canada,Quebec,Montreal,,,,,Royal West Academy-Rescue Team,,
+214,,false,United States,New Jersey,Piscataway,22448 BPO WAY,,Rutgers University,Rutgers University 22448 BPO WAY,Rutgers University-Rescue Team,,
+220,,false,United States,Washington,Seattle,,,,,Seattle Colleges District - Rescue Team,,
+34,,false,United States,Arizona,Sierra Vista,,,,,Buena High School-Rescue Team,,2014-08-29 11:47:30+00
+38,,false,United Kingdom,England,Cambridge,,,,,Cambridge (UK) Community-Rescue Team,,2014-08-29 11:47:44+00
+41,,false,United States,Pennsylvania,Pittsburgh,,,5000 Forbes Avenue,5000 Forbes Avenue,Carnegie Mellon University - Rescue Team,,2014-08-29 11:47:53+00
+45,,false,United States,Missouri,Springfield,,,,,Central High School - Rescue Team,,2014-08-29 11:48:17+00
+44,,false,United States,Maryland,Ellicott City,,,,,Centennial High School (MD)-Rescue Team,,2014-08-29 11:48:12+00
+46,,false,United States,Michigan,Mount Pleasant,,,,,Central Michigan University-Rescue Team,,2014-08-29 11:48:19+00
+50,,false,China,Hong Kong,North Point,,,,,Chinese International School-Rescue Team,,2014-08-29 11:48:29+00
+49,0101000020E6100000E69E6461BE2E54C026016A6AD9824140,true,United States,North Carolina,Charlotte,,,7702 Pineville-Matthews Rd,7702 Pineville-Matthews Rd,Charlotte Catholic High School - Rescue Team,100,2015-08-29 11:48:24+00
+51,,false,United States,Connecticut,Wallingford,,,,,Choate Rosemary Hall - Rescue Team,,2014-08-29 11:48:34+00
+52,,false,Mexico,Chiapas,Tuxtla Gutierrez,,,,,Christian Center Philadelphia-Rescue Team,,2014-08-29 11:48:36+00
+53,,false,United States,Ohio,Cincinnati,,,,,Cincinnati Community-Rescue Team,,2014-08-29 11:48:39+00
+55,,false,United States,Massachusetts,Worcester,,,950 Main Street,950 Main Street,Clark University - Rescue Team,,2014-08-29 11:48:45+00
+54,0101000020E61000008C3CFF2C4C9456C0FCE659A4E4774440,true,United States,California,Claremont,,,888 Columbia Ave,888 Columbia Ave,Claremont McKenna College - Rescue Team,100,2015-08-29 11:48:43+00
+57,,false,United States,California,Reseda,,,8140 Vanalden Avenue,8140 Vanalden Avenue,Cleveland High School (Reseda)- Rescue Team,,2014-08-29 11:48:50+00
+58,,false,United States,Iowa,Cedar Rapids,,,,,Coe College - Rescue Team,,2014-08-29 11:48:55+00
+62,0101000020E610000059C0046EDD0F54C0508248D0A90B3A40,true,United States,Florida,Cooper City,,,9401 Stirling Rd.,9401 Stirling Rd.,Cooper City High School-Semi Rescue Team,100,2015-08-29 11:49:06+00
+79,0101000020E6100000246992B30B025FC0D4DF0154279E4840,true,Canada,British Columbia,Nanaimo,,,6135 McGirr Road,6135 McGirr Road,Dover Bay Secondary School-Rescue Team,500,2014-08-29 11:49:52+00
+105,0101000020E6100000C47C7901F6895EC0D8BB3FDEABD64240,true,United States,California,Santa Clarita,,,27051 Robert C. Lee Parkway,27051 Robert C. Lee Parkway,Golden Valley High School-Rescue Team,500,2014-08-29 11:50:33+00
+117,0101000020E61000008542041C42A154C06DCA15DEE5EE4140,true,United States,California,Eureka,,,7351 Tompkins Hill Rd.,7351 Tompkins Hill Rd.,Humboldt Community - Rescue Team,500,2014-08-29 11:50:47+00
+126,0101000020E61000001E335019FF216340E3FC4D2844683BC0,true,United States,Virginia,Harrisonburg,,,91 East Grace St.,91 East Grace St.,James Madison University - Rescue Team,1000,2014-08-29 11:51:03+00
+221,,false,United States of America,Washington,Seattle,,,,,Seattle Community-Rescue Team,,
+222,,false,South Korea,Gyeonggi,Incheon,,,,,Seoul Community-Rescue Team,,
+223,,false,South Korea,Gyeonggi,Seoul,,,,,Seoul Foreign School-Rescue Team,,
+224,,false,South Korea,Gyeonggi-do,Seoul,,,,,Seoul International School-Rescue Team,,
+226,,false,Singapore,Central Singapore,Singapore,,,,,Singapore Community-Rescue Team,,
+227,,false,United Kingdom,England,Colchester,,,,,Sixth Form College-Rescue Team,,
+228,,false,United States,Massachusetts,Northhampton,,,,,Smith College - Rescue Team,,
+236,,false,United States,New York,Oswego,7060 Route 104,"Oswego, New York 13126-3599",SUNY Oswego,"SUNY Oswego 7060 Route 104 Oswego, New York 13126-3599",State University of New York Oswego-Semi Rescue Team,,
+237,,false,United Kingdom,England,London,,,,,St. Paul's Girls' School-Rescue Team,,
+238,,false,United States,New Hampshire,Concord,,,,,St. Paul's School (Concord)-Rescue Team,,
+261,,false,Germany,North Rhine-Westphalia,Bochum,,,,,University of Bochum-Rescue Team,,
+269,,false,United States,Colorado,Colorado Springs,,,,,University of Colorado at Colorado Springs-Rescue Team,,
+270,,false,United States,Ohio,Findlay,,,,,University of Findlay-Rescue Team,,
+271,,false,United States,Florida,Gainesville,,,,,University of Florida - Rescue Team,,
+273,,false,United States,Hawaii,Honolulu,,,,,University of Hawaii at Manoa-Rescue Team,,
+274,,false,United States,Illinois,Chicago,,,,,University of Illinois Chicago - Rescue Team,,
+275,,false,United States,Illinois,Urbana,,,,,University of Illinois Urbana Champaign - Rescue Team,,
+276,,false,United States,Iowa,Iowa City,,,,,University of Iowa - Rescue Team,,
+278,,false,United States,Maryland,College Park,,,,,University of Maryland-College Park-Rescue Team,,
+279,,false,United States,Michigan,Ann Arbor,,,,,University of Michigan - Rescue Team,,
+284,,false,United States,North Carolina,Chapel Hill,,,University of North Carolina at Chapel Hill,University of North Carolina at Chapel Hill,University of North Carolina Chapel Hill - Rescue Team,,
+285,,false,United States,Florida,Jacksonville,,,,,University of North Florida-Rescue Team,,
+286,,false,United States,Indiana,South Bend,,,University of Notre Dame,University of Notre Dame,University of Notre Dame - Rescue Team,,
+287,,false,United States,Pennsylvania,Philadelphia,,,,,University of Pennsylvania - Rescue Team,,
+288,,false,United States,Pennsylvania,Pittsburgh,,,,,University of Pittsburgh-Rescue Team,,
+290,,false,United States,Saskatchewan,Regina,,,,,University of Regina-Rescue Team,,
+291,,false,United States,New York,Rochester,,,University of Rochester,University of Rochester,University of Rochester - Rescue Team,,
+293,,false,United States,Maine,Portland,,,96 Falmouth St,96 Falmouth St,University of Southern Maine-Semi Rescue Team,,
+296,,false,Canada,Ontario,Toronto,"27 King's College Circle,",,"University of Toronto,","University of Toronto, 27 King's College Circle,",University of Toronto - Rescue Team,,
+298,,false,United States of America,Wisconsin,Madison,,,,,University of Wisconsin Madison - Rescue Team,,
+299,,false,United States,Wisconsin,River Falls,,,,,University of Wisconsin River Falls-Rescue Team,,
+330,,false,United States,Connecticut,New Haven,,,,,Yale University-Rescue Team,,
+331,,false,South Korea,Gyeonggi,Seoul,,,,,Yongsan International School of Seoul (YISS)-Rescue Team,,
+332,,false,United States of America,North Carolina,Chapel Hill,,,,,Young Americans for Liberty (YAL) in North Carolina - Semi Rescue Team,,
+90,,false,Finland,Southern Finland,Jorvas,Kolmenkyl_nkaari 3,,,"(Sara Kalkku,) Kolmenkyl_nkaari 3",Finland Community - Rescue Team,,
+157,0101000020E61000004AD235936F5C53C0874D092D90C84240,true,United States,Virginia,Richmond,,,1000 N. Lombardy St,1000 N. Lombardy St,Maggie L. Walker Governor's School - Rescue Team,1000,
+145,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Los Angeles,,,,,Koreatown Boy Scouts & Girl Scouts-Semi Rescue Team,1000,
+2,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Camarillo,,,,,Adolfo Camarillo High School-Rescue Team,100,2015-05-29 11:43:21+00
+1,,false,United Kingdom,England,Cobham,,,,,ACS Cobham International School - Rescue Team,,2014-08-29 11:44:51+00
+11,0101000020E6100000E6550000A6AC86C0A6A587DB00BF4C40,true,United States,Oregon,Ashland,,,,,Ashland High School (OR) - Rescue Team,100,2015-08-29 11:45:53+00
+3,0101000020E6100000912C6002B7985DC03524EEB1F4054140,true,United States,California,Los Angeles,,,2955 S. Robertson Blvd.,2955 S. Robertson Blvd.,Alexander Hamilton High School - Rescue Team,100,2015-08-29 11:45:23+00
+4,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Pleasanton,,,,,Amador Valley High School -Rescue Team,100,2015-08-29 11:45:31+00
+6,,false,United States,Massachusetts,Amherst,,,,,Amherst College - Rescue Team,,2014-08-29 11:45:38+00
+13,0101000020E61000002CBCCB457CD86540611A868F886D42C0,true,New Zealand,Auckland,Auckland,,"Postal: 33 Tirotai Crescent, Westmere,1022",85 Airedale Street,"Physical: 85 Airedale Street Postal: 33 Tirotai Crescent, Westmere,1022",Auckland International College-Rescue Team,100,2015-08-29 11:46:12+00
+16,0101000020E61000001D7233DC803752C07767EDB60BE54440,true,United States,Connecticut,Avon,,,510 West Avon Road,510 West Avon Road,Avon High School (CT)-Rescue Team,100,2015-08-29 11:46:23+00
+27,,false,United States,Massachusetts,Boston,,,,,Boston University - Rescue Team,,2014-08-29 11:47:02+00
+23,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Chula Vista,,,,,Bonita Vista High School - Rescue Team,100,2015-08-29 11:46:42+00
+28,0101000020E6100000309E4143FF9C5CC022AB5B3D27954940,true,Canada,Alberta,Cochrane,,,"2000 River Heights Dr, Cochrane, AB","2000 River Heights Dr, Cochrane, AB",Bow Valley High School - Rescue Team,100,2015-08-29 11:47:13+00
+31,,false,United States,Rhode Island,Providence,,,,,Brown University - Rescue Team,,2014-08-29 11:47:21+00
+121,0101000020E6100000BCCB457C27745DC0AF997CB3CD994140,true,United States,California,San Jose,,,1776 Educational Park Dr,1776 Educational Park Dr,Independence High School-Rescue Team,500,2014-08-29 11:50:53+00
+33,0101000020E61000000B462575029A5EC0B4C876BE9FE64240,true,United States,California,San Buenaventura (Ventura),,,5670 Telegraph Rd,5670 Telegraph Rd,Buena High School (CA)-Rescue Team,100,2015-08-29 11:47:26+00
+36,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Northridge,,,,,California State University Northridge-Rescue Team,100,2015-08-29 11:47:35+00
+66,0101000020E61000004DDBBFB2D27C52C014ED2AA4FC684440,true,United States,New York,New York,,,160 Convent Avenue,160 Convent Avenue,CUNY-City College of New York-Rescue Team,100,2015-08-29 11:49:22+00
+75,0101000020E6100000AC5626FC525F54C0632827DA55444440,true,United States,CA,Lancaster,"Lancaster, CA 93534-2806",,44662 15th Street West,"44662 15th Street West Lancaster, CA 93534-2806",Desert Christian High School-Rescue Team,500,2014-08-29 11:49:43+00
+122,0101000020E61000002EAD86C43D8C5EC0B08F4E5DF9D44740,true,United States,Washington,Kirkland,,,"11133 NE 65th St, Kirkland, WA 98033","11133 NE 65th St, Kirkland, WA 98033",International Community School - Rescue Team,500,2014-08-29 11:50:56+00
+42,0101000020E6100000E6550000A6AC86C0A6A587DB00BF4C40,true,United States,Oregon,Portland,,,,,Catlin Gabel School-Semi-Rescue Team,100,2015-08-29 11:47:56+00
+43,0101000020E6100000CF66D5E76A5F5EC0E0A128D0274A4340,true,United States,California,Corona,,,,,Centennial High School (Corona) - Rescue Team,100,2015-08-29 11:47:57+00
+60,0101000020E610000071C971A7748052C0ACADD85F765B4440,true,United States,New York,New York City,,,,,Columbia University - Rescue Team,100,2015-08-29 11:49:01+00

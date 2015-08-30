@@ -14,6 +14,16 @@ class User extends CI_Model {
 		return $this->db->query("SELECT * FROM users WHERE email = ?", array($email))->row_array();
 	}
 
+	public function get_all_users_names()
+	{
+		return $this->db->query("SELECT id, first_name, last_name FROM users")->result_array();
+	}
+
+	public function get_all_teams_names()
+	{
+		return $this->db->query("SELECT id, name FROM teams")->result_array();
+	}
+
 	public function pending_requests()
 	{
 		return $this->db->query("SELECT * FROM users WHERE user_level = ?", array(5))->result_array();
