@@ -5,6 +5,7 @@ class Messages extends CI_Controller {
 	public function __construct()
 	{
 		parent::__construct();
+		$this->session->set_userdata('logged_in', TRUE);
 		$this->output->enable_profiler();
 		$this->load->Model('user');
 		$this->load->Model('mahana_model');
@@ -33,7 +34,7 @@ class Messages extends CI_Controller {
 		// Check if logged in
 		if(!$this->session->userdata('logged_in'))
 		{
-			redirect('/logins');
+			redirect('/users');
 		}
 		else
 		{

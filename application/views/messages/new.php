@@ -73,7 +73,7 @@
         <div class="col-md-6">
           <form action="/messages/post_message" method="post">
             <h4>Who to message?</h4>
-            <select data-placeholder="Who to message" style="width:300px;" multiple class='chosen-select form-control' name='user_id[]' multiple>
+            <select data-placeholder="Just start typing any names or teams!" style="width:300px;" multiple class='chosen-select form-control' name='user_id[]' multiple>
               <option value=""></option>
               <optgroup label="Teams">
 <?php
