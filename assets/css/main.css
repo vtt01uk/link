@@ -220,8 +220,11 @@ input.btn-login, a.btn-default, .btn-success  {
 .team_banner h1 {
   color: #fff;
 }
-a, .navbar-nav li a , .navbar-inverse .navbar-nav li a, .profile-usermenu ul li.active a {
+a, .navbar-nav li a, .profile-usermenu ul li.active a {
   color: #dd3928;
+}
+.navbar-inverse .navbar-nav li a{
+
 }
 .profile-usermenu ul li.active a {
   border-left: 2px solid #dd3928;

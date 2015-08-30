@@ -73,7 +73,7 @@
       
     </div>
     <div class="jumbotron red_bg">
-        <h2 class="text-center">UP COMING EVENTS</h2>
+        <h2 class="text-center">UPCOMING EVENTS</h2>
         <div class="row">
           <div class="col-md-12">
           <table>

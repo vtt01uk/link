@@ -11,16 +11,17 @@
     <title>Compose a New Message</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="/assets/dist/css/bootstrap.css" rel="stylesheet">
+    <link href="/assets/css/bootstrap.css" rel="stylesheet">
+    <link href="/assets/css/main.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="/assets/dist/css/starter-template.css" rel="stylesheet">
-    <link href="/assets/dist/css/signin.css" rel="stylesheet">
-    <link href="/assets/dist/css/dashboard.css" rel="stylesheet">
-    <link href="/assets/dist/css/sticky-footer-navbar.css" rel="stylesheet">
-    <!-- <link href="/assets/dist/css/chosen/docsupport/prism.css" rel="stylesheet"> -->
-    <!-- <link href="/assets/dist/css/chosen/docsupport/style.css" rel="stylesheet"> -->
-    <link href="/assets/dist/css/chosen/chosen.css" rel="stylesheet">
+    <link href="/assets/css/starter-template.css" rel="stylesheet">
+    <link href="/assets/css/signin.css" rel="stylesheet">
+    <link href="/assets/css/dashboard.css" rel="stylesheet">
+    <link href="/assets/css/sticky-footer-navbar.css" rel="stylesheet">
+    <!-- <link href="/assets/css/chosen/docsupport/prism.css" rel="stylesheet"> -->
+    <!-- <link href="/assets/css/chosen/docsupport/style.css" rel="stylesheet"> -->
+    <link href="/assets/css/chosen/chosen.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -30,31 +31,32 @@
 </head>
 <body>
 
-  <nav class="navbar navbar-default navbar-fixed-top">
-    <div class="container">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="#">LINK</a>
+  <div class= "container">
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+             <a class="navbar-brand" href="/"><img  id ="logo" src = "/assets/img/logo.png"></a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a id = "new_event" href="/events/create">Create Event</a></li>
+            <li><a href="#">Dashboard</a></li>
+            <li><a href="/users/teams">Teams</a></li>
+            <li><a href="#">Events</a></li>
+            <li><a href="#">Members</a></li>
+            <li><a href="/messages">Messages</a></li>
+            <li><a href="#">Log Off</a></li>
+          </ul>
+        </div>
       </div>
-     <div id="navbar" class="collapse navbar-collapse">
-        <ul class="nav navbar-nav navbar-right">
-          <li><a href="">Home</a></li>
-          <li><a href="">Teams</a></li>
-          <li><a href="">Dashboard</a></li>
-          <li class="active"><a href="/messages/home">Message Center</a></li>
-          <li><a href="/logins/logoff">Log out</a></li>
-        </ul>
-        <form class="navbar-form navbar-right">
-          <input type="text" class="form-control" placeholder="Search...">
-        </form>
-      </div><!--/.nav-collapse -->
-    </div>
-  </nav>
+    </nav>
+  </div>
 
   <div class="container-fluid">
     <div class="row">
@@ -123,8 +125,8 @@
     </div>
   </footer>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript"></script>
-  <script src="/assets/dist/js/chosen.jquery.js" type="text/javascript"></script>
-  <script src="/assets/dist/js/docsupport/prism.js" type="text/javascript" charset="utf-8"></script>
+  <script src="/assets/js/chosen.jquery.js" type="text/javascript"></script>
+  <script src="/assets/js/docsupport/prism.js" type="text/javascript" charset="utf-8"></script>
   <script type="text/javascript">
     var config = {
       '.chosen-select'           : {},
@@ -137,6 +139,6 @@
       $(selector).chosen(config[selector]);
     }
   </script>
-  <script src="/assets/dist/js/chosen.jquery.js" type="text/javascript"></script>
+  <script src="/assets/js/chosen.jquery.js" type="text/javascript"></script>
 </body>
 </html>

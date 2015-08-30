@@ -24,9 +24,10 @@
           <ul class="nav navbar-nav navbar-right">
           <li><a href="/users/self_edit"> <i class="glyphicon glyphicon-user"></i> Edit My Profile</a></li>
             <li><a href="#">Dashboard</a></li>
-            <li><a href="#">Teams</a></li>
+            <li><a href="/users/teams">Teams</a></li>
             <li><a href="#">Events</a></li>
             <li><a href="#">Members</a></li>
+            <li><a href="/messages">Messages</a></li>
             <li><a href="#">Log Off</a></li>
           </ul>
         </div>
@@ -37,6 +38,7 @@
     <!--   <h1><?= $user['first_name'].' '.$user['last_name'] ?></h1> -->
     </div>
     <div class="row profile">
+
     <div class="col-md-3">
       <div class="profile-sidebar">
         <!-- SIDEBAR USERPIC -->
