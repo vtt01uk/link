@@ -5,10 +5,11 @@ class Users extends CI_Controller {
 	public function __construct()
 	{
 		parent::__construct();
-		// $this->output->enable_profiler();
+		$this->output->enable_profiler();
 		$this->load->model('User');
+		$this->load->library('session');
 		// REMOVE THIS BEFORE DEPLOYING LIVE
-		$this->session->set_userdata('logged_in', TRUE);
+		// $this->session->set_userdata('logged_in', TRUE);
 	}
 
 	public function index()
@@ -37,7 +38,7 @@ class Users extends CI_Controller {
 		if ($login)
 		{
 			$user = $this->User->get_user_by_email($this->input->post('email'));
-			$this->session->set_userdata('user', $user);
+			$this->session->set_userdata($user);
 			redirect('/users/dashboard');
 		}
 		else
