@@ -17,7 +17,7 @@ class Messages extends CI_Controller {
 		// Check if logged in
 		if(!$this->session->userdata('logged_in'))
 		{
-			redirect('/logins');
+			redirect('/users/login');
 		}
 		else
 		{

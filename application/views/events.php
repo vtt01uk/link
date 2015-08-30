@@ -23,13 +23,14 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
+            <li><a href>Hello, <?= $this->session->userdata('first_name') ?></a></li>
             <li><a id = "new_event" href="/events/create">Create Event</a></li>
-            <li><a href="#">Dashboard</a></li>
+            <li><a href="/users/dashboard">Dashboard</a></li>
             <li><a href="/users/teams">Teams</a></li>
-            <li><a href="#">Events</a></li>
+            <li><a href="/events">Events</a></li>
             <li><a href="#">Members</a></li>
             <li><a href="/messages">Messages</a></li>
-            <li><a href="#">Log Off</a></li>
+            <li><a href="/users/logoff">Log Off</a></li>
           </ul>
         </div>
       </div>

@@ -74,7 +74,7 @@ class User extends CI_Model {
 		$email = $user['email'];
 		$check = $this->db->query("SELECT * FROM users WHERE email = ?", array($email))->row_array();
 
-		if (md5($user['password'])=== $check['password'])
+		if (($user['password'])=== $check['password'])
 		{
 			return $check;
 			return TRUE;
